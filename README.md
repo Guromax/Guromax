@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Guromax
-- 🌱 I’m currently learning Python
+Software Engineer (Middle/Senior)
 
 
 <!---
